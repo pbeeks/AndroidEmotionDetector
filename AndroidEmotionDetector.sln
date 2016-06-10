@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidEmotionDetector", "AndroidEmotionDetector\AndroidEmotionDetector.csproj", "{5D196EE3-B659-4791-AE0B-89488178707C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{73652527-F7A5-47C2-90C6-901ACF396936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D196EE3-B659-4791-AE0B-89488178707C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D196EE3-B659-4791-AE0B-89488178707C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D196EE3-B659-4791-AE0B-89488178707C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D196EE3-B659-4791-AE0B-89488178707C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
